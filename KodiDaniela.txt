@@ -1,0 +1,37 @@
+id="plugin.program.KodiDaniela"
+version="2.0.7"
+zip=""
+name="Kodi Daniela"
+version="1.0.0"
+url="https://files.fm/u/3kt7q5qpw"
+minor="http://"
+gui="http://"
+kodi="19.4"
+theme="http://"
+icon=""
+fanart=""
+preview="http://"
+adult="no"
+info="http://"
+description="Kodi Daniela V1.0.0"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
